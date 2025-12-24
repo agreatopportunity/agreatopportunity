@@ -167,16 +167,16 @@ Revolutionary hybrid architecture combining:
 
 ## 📊 GitHub Analytics
 
-<!-- Stats and Streak - Using different instances to avoid rate limits -->
+<!-- GitHub Stats - This one is working, keep it -->
 <p align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=agreatopportunity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=agreatopportunity&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-streak-stats-nine-delta.vercel.app/?user=agreatopportunity&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-<!-- Top Languages -->
+<!-- Top Languages - This one is working, keep it -->
 <p align="center">
   <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agreatopportunity&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
 </p>
-<!-- Activity Graph -->
+<!-- Activity Graph - This one is working, keep it -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=agreatopportunity&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
 </p>
@@ -186,7 +186,7 @@ Revolutionary hybrid architecture combining:
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agreatopportunity&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=agreatopportunity&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---
