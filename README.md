@@ -186,7 +186,7 @@ Revolutionary hybrid architecture combining:
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agreatopportunity&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=agreatopportunity&theme=darkhub&no-bg=false" alt="Trophies"/>
 </p>
 
 ---
