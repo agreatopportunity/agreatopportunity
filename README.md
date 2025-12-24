@@ -226,13 +226,13 @@ Revolutionary hybrid architecture combining:
 
 ```
 ┌──────────────────────────────────────────────────┐
-│  🎮 GPU 1: NVIDIA RTX 4060 Ti 16GB               │
-│  🎮 GPU 2: NVIDIA Titan V 12GB                   │
-│  🧠 RAM:   64GB DDR4                             │
-│  💻 CPU:   Intel Core i9                         │
-│  📍 Based: Branson, Missouri                     │
+│  🎮 GPU 1: NVIDIA                                │
+│  🎮 GPU 2: AMD                                   │
+│  🧠 RAM:   ALL DAY EVERY DAY                     │
+│  💻 CPU:   OPEN MIND                             │
+│  📍 Based: Network Effect                        │
 │                                                  │
-│  "Training 400M param LLMs on this setup!" 🚀   │
+│  "Training 400M param LLMs on this setup!" 🚀    │
 └──────────────────────────────────────────────────┘
 ```
 
