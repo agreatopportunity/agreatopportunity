@@ -101,7 +101,7 @@ Revolutionary hybrid architecture combining:
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Gemini-Mini LLM
+### 🧠 [Personal-Mini-LLM](https://github.com/agreatopportunity/How-to-Create-and-Train-your-LLM)
 **Training LLMs from Scratch**
 
 240M → 400M parameter LLaMA-3 architecture with custom QK-Norm. Proving you can train real AI on consumer GPUs!
