@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=575&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&random=false&width=700&height=100&lines=%F0%9F%94%97+Building+TRU+Blockchain;%F0%9F%A7%A0+Training+LLMs+from+Scratch+on+Consumer+Hardware;%F0%9F%9B%A1%EF%B8%8F+Quantum-Resistant+Cryptocurrency+Pioneer;%F0%9F%93%9A+When+One+Teaches%2C+Two+Learn" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&random=false&width=700&height=100&lines=%F0%9F%94%97+Building+TRU+Blockchain;%F0%9F%A7%A0+Training+LLMs+from+Scratch+on+Consumer+Hardware;%F0%9F%9B%A1%EF%B8%8F+Quantum-Resistant+Cryptocurrency+Pioneer;%F0%9F%93%9A+When+One+Teaches%2C+Two+Learn" alt="Typing SVG" />
   </a>
 </p>
 
