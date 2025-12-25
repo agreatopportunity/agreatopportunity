@@ -186,7 +186,10 @@ Revolutionary hybrid architecture combining:
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agreatopportunity&theme=darkhub&no-bg=false" alt="Trophies"/>
+  <img src="https://img.shields.io/badge/Repos-35+-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-675+-green?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Since-2018-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Grade-A+-brightgreen?style=for-the-badge" />
 </p>
 
 ---
