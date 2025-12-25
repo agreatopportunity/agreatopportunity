@@ -113,7 +113,7 @@ Revolutionary hybrid architecture combining:
 </td>
 <td width="50%" valign="top">
 
-### 🎙️ SOVRA AI
+### 🎙️ [SOVRA AI](https://github.com/agreatopportunity/SOVRA_AI_COGNITIVE_ARCHITECTURE)
 **Cognitive Voice Assistant**
 
 7-layer cognitive architecture for X Spaces integration. Real-time voice AI with deep understanding.
