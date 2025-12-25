@@ -84,7 +84,7 @@ Implementing Winternitz One-Time Signatures (WOTS) for post-quantum security. Pr
 </td>
 <td width="50%" valign="top">
 
-### 🔗 TRU Blockchain
+### 🔗 [TRU Blockchain](https://github.com/agreatopportunity/TRU-README)
 **Tokenized Real Utility**
 
 Revolutionary hybrid architecture combining:
