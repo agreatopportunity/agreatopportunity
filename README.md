@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Branson,%20Missouri%20🏔️-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Network,%20Effect%20🏔️-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Philosophy-KAIZEN%20改善-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Crypto%20Since-2016-gold?style=flat-square" />
 </p>
